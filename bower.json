@@ -1,0 +1,22 @@
+{
+  "name": "yiibasic",
+  "version": "0.0.0",
+  "authors": [
+    "lichunqiang <light-li@hotmail.com>"
+  ],
+  "description": "bower yii2 assets test",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "asset",
+    "yii2",
+    "bower"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "json3": "^3.3.0",
+    "es5-shim": "^4.0.0",
+    "jquery-form": "~3.46.0",
+  }
+}
